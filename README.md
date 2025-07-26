@@ -1,8 +1,6 @@
 # Todo_react_app
 # 📝 iTask - Todo React App
 
-![iTask Screenshot](./Screenshot%202025-07-26%20164415.png)
-
 iTask is a sleek, responsive **Todo List App** built using **ReactJS**. It allows users to:
 - Create tasks
 - Mark them as done
@@ -27,13 +25,13 @@ It features a clean UI and intuitive controls for a smooth task management exper
 ## 📸 Screenshots
 
 ### ➕ Add and View Todos
-![Add View Todos](./Screenshot%202025-07-26%20164415.png)
+![Add View Todos](./Todo_react_app/Demo_images/App_interface.png)
 
 ### ✅ Show Only Unfinished Tasks
-![Hide Finished](./Screenshot%202025-07-26%20164455.png)
+![Hide Finished](./Todo_react_app/Demo_images/Hide_finished.png)
 
 ### ✔️ Display Completed Tasks
-![Show Finished](./Screenshot%202025-07-26%20164513.png)
+![Show Finished](./Todo_react_app/Demo_images/Show_finished.png)
 
 ---
 
