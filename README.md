@@ -1,7 +1,4 @@
 # Todo_react_app
-# Save the README content to a file
-
-readme_content = """
 # 📝 iTask - Todo React App
 
 ![iTask Screenshot](./Screenshot%202025-07-26%20164415.png)
