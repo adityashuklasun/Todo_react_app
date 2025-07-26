@@ -22,16 +22,16 @@ It features a clean UI and intuitive controls for a smooth task management exper
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
 ### ➕ Add and View Todos
 ![Add View Todos](./Todo_react_app/Demo_images/App_interface.png)
 
 ### ✅ Show Only Unfinished Tasks
-![Hide Finished](./Todo_react_app/Demo_images/Hide_finished.png)
+![Hide Finished](./Todo_react_app/Demo_images/Hide_unfinished.png)
 
 ### ✔️ Display Completed Tasks
-![Show Finished](./Todo_react_app/Demo_images/Show_finished.png)
+![Show Finished](./Todo_react_app/Demo_images/Show_unfinished.png)
 
 ---
 
